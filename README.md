@@ -88,10 +88,15 @@ Deberás desplegar el listas por mes de los buques cuyo UBI empiece con _prefix_
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
 
 ```
-jan 20 1 0
-feb 20 1 1
-apr 20 1 0
-jul 20 1 0
+jan
+M 1: 2FJX8
+feb
+M 1: 2FJV6
+R 1: 2FJB6
+apr
+M 1: 2FJA8
+jul
+M 1: 2FJU9
 ```
 
 Para probar tu implementación, compila tu programa con el comando:
@@ -109,7 +114,7 @@ diff mysolution1.txt output1.txt
 
 Si el segundo comando no tenga ninguna salida, sabrás que los resultados que obtuviste son los esperados. Recuerda actualizar tu repositorio (_git push_) cuando hayas terminado tu implementación.
 
-Por último, realiza en forma individual una investigación y reflexión de la importancia y eficiencia del uso de listas encadenadas en una situación problema de esta naturaleza, generando un documento llamado **"ReflexAct2.3.pdf "**.
+Por último, Realiza en forma individual una investigación y reflexión de la importancia y eficiencia del uso de listas encadenas en una situación problema de esta naturaleza, generando un documento llamado **"ReflexAct2.3.pdf "**.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
